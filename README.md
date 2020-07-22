@@ -1,5 +1,19 @@
-# Hi! :wave: I'm Zack
+### Hi there 👋, my name is Zack
+#### I'm a SW Eng. working at GitHub
+![I'm a SW Eng. working at GitHub](https://resources.github.com/assets/img/site/octocat-help.svg)
 
-## Things I work on
-- DevSecOps with Government customers @github
-- Open source [super-linter](https://github.com/github/super-linter) project
+![Profile views](https://gpvc.arturio.dev/zkoppert)
+
+---
+
+**Skills**: Open Source, DevOps, Security, Embedded Linux systems
+
+🔭 I’m currently working on [Super Linter](https://github.com/github/super-linter) 
+🌱 I’m currently learning CodeQL 
+😄 Pronouns: he/him 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=zkoppert&show_icons=true)
+
+<div align="center">
+<a href="https://github.com/zkoppert"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  <a href="https://www.linkedin.com/in/zack-koppert/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> <a href="https://twitter.com/ZacheryK89"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>  
+</div>
