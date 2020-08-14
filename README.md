@@ -8,9 +8,9 @@
 
 **Skills**: Open Source, DevOps, Security, Embedded Linux systems
 
-🔭 I’m currently working on [Super Linter](https://github.com/github/super-linter) 
-🌱 I’m currently learning CodeQL 
-😄 Pronouns: he/him 
+🔭 I’m currently working on [Super Linter](https://github.com/github/super-linter)  
+🌱 I’m currently learning CodeQL  
+😄 Pronouns: he/him  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zkoppert&show_icons=true)
 
