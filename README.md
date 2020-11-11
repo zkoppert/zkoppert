@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zack
 #### I'm a SW Eng. working at GitHub
-![I'm a SW Eng. working at GitHub](https://resources.github.com/assets/img/site/octocat-help.svg)
+![I'm a Software Engineer working at GitHub](https://resources.github.com/assets/img/site/octocat-help.svg)
 
 ![Profile views](https://gpvc.arturio.dev/zkoppert)
 
