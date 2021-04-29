@@ -1,11 +1,11 @@
+<img src='https://github.com/zkoppert/zkoppert/blob/master/Rabb%20School%20of%20Continuing%20Studies%20-%20Brandeis%20University%20-%20Open%20Source%20Community%20Development%20-%202020-09-15.png?raw=true' alt='OS Community Development Badge' height='100' align="right">
+
 ### Hi there 👋, my name is Zack
-#### I'm a Software Engineer working at GitHub
+#### I'm a Senior Software Engineer working at GitHub
 
 ---
 
 **Skills**: Open Source, DevOps, Security, Embedded Linux systems
-
-<img src='https://github.com/zkoppert/zkoppert/blob/master/Rabb%20School%20of%20Continuing%20Studies%20-%20Brandeis%20University%20-%20Open%20Source%20Community%20Development%20-%202020-09-15.png?raw=true' alt='OS Community Development Badge' height='100' >
 
 Open Source Projects I work on
 - [Super Linter](https://github.com/github/super-linter)
