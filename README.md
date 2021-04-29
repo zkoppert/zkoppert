@@ -5,7 +5,7 @@
 
 ---
 
-**Skills**: Open Source, DevOps, Security, Embedded Linux systems
+**Skills**: Open Source, InnerSource, DevOps, Security, Embedded Linux systems
 
 Open Source Projects I work on
 - [Super Linter](https://github.com/github/super-linter)
