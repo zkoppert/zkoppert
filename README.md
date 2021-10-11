@@ -9,6 +9,8 @@
 
 Open Source Projects I work on
 - [Super Linter](https://github.com/github/super-linter)
+- [PyGithub](https://github.com/PyGithub/PyGithub)
+- [Advanced Security Enforcer](https://github.com/zkoppert/advanced-security-enforcer)
 - [Rally](https://github.com/github/rally)
 - [GitHub Artifact Exporter](https://github.com/github/github-artifact-exporter)
 
