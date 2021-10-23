@@ -11,8 +11,9 @@ Open Source Projects I work on
 - [Super Linter](https://github.com/github/super-linter)
 - [PyGithub](https://github.com/PyGithub/PyGithub)
 - [Advanced Security Enforcer](https://github.com/zkoppert/advanced-security-enforcer)
-- [Rally](https://github.com/github/rally)
+- [InnerSource Crawler](https://github.com/zkoppert/innersource-crawler)
 - [GitHub Artifact Exporter](https://github.com/github/github-artifact-exporter)
+- [Automatic-Contrib-PRs](https://github.com/github/automatic-contrib-prs)
 
 <div align="center">
   <a href="https://github.com/zkoppert"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
