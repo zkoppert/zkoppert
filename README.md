@@ -8,6 +8,7 @@
 **Skills**: Open Source, InnerSource, DevOps, Security, Embedded Linux systems
 
 Open Source Projects I work on
+- [github-ospo](https://github.com/github/github-ospo)
 - [Super Linter](https://github.com/github/super-linter)
 - [PyGithub](https://github.com/PyGithub/PyGithub)
 - [Advanced Security Enforcer](https://github.com/zkoppert/advanced-security-enforcer)
