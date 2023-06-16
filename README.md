@@ -10,10 +10,10 @@
 Open Source Projects I work on
 - [github-ospo](https://github.com/github/github-ospo)
 - [Super Linter](https://github.com/github/super-linter)
-- [PyGithub](https://github.com/PyGithub/PyGithub)
+- [Stale-Repos Action](https://github.com/github/stale-repos)
+- [Issue-Metrics Action](https://github.com/github/issue-metrics)
 - [Advanced Security Enforcer](https://github.com/zkoppert/advanced-security-enforcer)
-- [InnerSource Crawler](https://github.com/zkoppert/innersource-crawler)
-- [GitHub Artifact Exporter](https://github.com/github/github-artifact-exporter)
+- [InnerSource Crawler Action](https://github.com/zkoppert/innersource-crawler)
 - [Automatic-Contrib-PRs](https://github.com/github/automatic-contrib-prs)
 
 <div align="center">
