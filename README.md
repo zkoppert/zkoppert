@@ -11,6 +11,7 @@ Open Source Projects I work on as a maintainer
 - [github-ospo](https://github.com/github/github-ospo)
 - [Super Linter](https://github.com/github/super-linter)
 - [opensource.guide](https://github.com/github/opensource.guide)
+- [opensourcefriday.com](https://github.com/github/opensourcefriday)
 - [github/explore](https://github.com/github/explore)
 - [Stale-Repos Action](https://github.com/github/stale-repos)
 - [Issue-Metrics Action](https://github.com/github/issue-metrics)
