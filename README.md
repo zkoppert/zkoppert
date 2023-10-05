@@ -4,7 +4,7 @@
 #### I'm a Senior Software Engineer working at GitHub
 My work focuses on:
 - Customers: Leadership and engineering presentations, Hackathons, Conferences, Workshops, Trainings
-- Engineering: Backend GitHub webservices, GitHub Apps, GitHub Actions
+- Engineering: Backend web services, GitHub Apps, GitHub Actions
 - Program: Open Source initiatives, InnerSource initiatives, DevSecOps initiatives
 
 ---
