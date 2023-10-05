@@ -2,10 +2,15 @@
 
 ### Hi there 👋, my name is Zack
 #### I'm a Senior Software Engineer working at GitHub
+My work focuses on:
+- Customers: Leadership and engineering presentations, Hackathons, Conferences, Workshops, Trainings
+- Engineering: Backend GitHub webservices, GitHub Apps, GitHub Actions
+- Program: Open Source initiatives, InnerSource initiatives, DevSecOps initiatives
 
 ---
 
-**Skills**: Open Source, InnerSource, DevOps, Security, Embedded Linux systems
+**Skills**: Open Source, InnerSource, DevOps, Web services, Security, Embedded Linux systems
+**Languages:**: Python, Golang, Javascript, c, c++
 
 Open Source Projects I work on as a maintainer
 - [github-ospo](https://github.com/github/github-ospo)
