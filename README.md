@@ -10,7 +10,7 @@ My work focuses on:
 ---
 
 **Skills**: Open Source, InnerSource, DevOps, Web services, Security, Embedded Linux systems
-**Languages:**: Python, Golang, Javascript, c, c++
+**Languages:**: Python, Golang, Javascript, C, C++
 
 Open Source Projects I work on as a maintainer
 - [github-ospo](https://github.com/github/github-ospo)
