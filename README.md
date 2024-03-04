@@ -1,15 +1,16 @@
 <img src='https://github.com/zkoppert/zkoppert/blob/master/Rabb%20School%20of%20Continuing%20Studies%20-%20Brandeis%20University%20-%20Open%20Source%20Community%20Development%20-%202020-09-15.png?raw=true' alt='OS Community Development Badge' height='100' align="right">
 
 ### Hi there 👋, my name is Zack
-#### I'm a Senior Software Engineer working at GitHub
+#### I'm a Senior Software Engineering Manager working at GitHub
 My work focuses on:
+- Leadership: People management, OSPO strategy and execution
 - Customers: Leadership and engineering presentations, Hackathons, Conferences, Workshops, Trainings
 - Engineering: Backend web services, GitHub Apps, GitHub Actions
 - Program: Open Source initiatives, InnerSource initiatives, DevSecOps initiatives
 
 ---
 
-**Skills**: Open Source, InnerSource, DevOps, Web services, Security, Embedded Linux systems
+**Skills**: Leadership, Open Source, InnerSource, DevOps, Web services, Security, Embedded Linux systems
 
 **Languages:**: Python, Golang, Javascript, C, C++
 
