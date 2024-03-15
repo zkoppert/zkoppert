@@ -16,7 +16,7 @@ My work focuses on:
 
 Open Source Projects I work on as a maintainer
 - [github-ospo](https://github.com/github/github-ospo)
-- [Super Linter](https://github.com/github/super-linter)
+- [Super Linter](https://github.com/super-linter/super-linter)
 - [Stale-Repos Action](https://github.com/github/stale-repos)
 - [Issue-Metrics Action](https://github.com/github/issue-metrics)
 - [Evergreen Action](https://github.com/github/evergreen)
