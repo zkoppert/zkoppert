@@ -26,6 +26,8 @@ Open Source Projects I work on as a maintainer
 - [InnerSource Crawler Action](https://github.com/zkoppert/innersource-crawler)
 - [Automatic-Contrib-PRs](https://github.com/github/automatic-contrib-prs)
 
+[![An image of @zkoppert's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zkoppert)](https://holopin.io/@zkoppert)
+
 <div align="center">
   <a href="https://github.com/zkoppert"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
   <a href="https://www.linkedin.com/in/zack-koppert/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>  
