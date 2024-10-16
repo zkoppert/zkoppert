@@ -4,7 +4,7 @@
 #### I'm a Senior Software Engineering Manager working at GitHub
 My work focuses on:
 - Leadership: People management, OSPO strategy and execution
-- Customers: Leadership and engineering presentations, Hackathons, Conferences, Workshops, Trainings
+- Customers: Engineering best practices presentations, Hackathons, Conferences, Workshops, Trainings
 - Engineering: Backend web services, GitHub Apps, GitHub Actions
 - Program: Open Source initiatives, InnerSource initiatives, DevSecOps initiatives
 
@@ -17,8 +17,8 @@ My work focuses on:
 Open Source Projects I work on as a maintainer
 - [github-ospo](https://github.com/github/github-ospo)
 - [Super Linter](https://github.com/super-linter/super-linter)
-- [Stale-Repos Action](https://github.com/github/stale-repos)
 - [Issue-Metrics Action](https://github.com/github/issue-metrics)
+- [Stale-Repos Action](https://github.com/github/stale-repos)
 - [Evergreen Action](https://github.com/github/evergreen)
 - [Cleanowners Action](https://github.com/github/cleanowners)
 - [Contributors Action](https://github.com/github/contributors)
